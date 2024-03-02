@@ -1,7 +1,7 @@
 ---
 template: BlogPost
 path: /remark-kitchen-sink
-date: 2020-02-21T12:12:25.364Z
+date: 2021-12-21T12:12:00.000Z
 title: >-
   The role of land use and vitality in fostering gender equality in urban public
   parks: The case of Kabul city, Afghanistan
