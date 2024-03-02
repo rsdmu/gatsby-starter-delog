@@ -1,6 +1,6 @@
 ---
 template: BlogPost
-path: /remark-kitchen-sink
+path: /genderedspaces
 date: 2021-12-21T12:12:00.000Z
 title: >-
   The role of land use and vitality in fostering gender equality in urban public
@@ -8,7 +8,9 @@ title: >-
 metaDescription: ''
 thumbnail: /assets/img_40siton.jpeg
 ---
-Photograph of a public space in Kabul, taken in 2020.
+*Photograph of a public space in Kabul, taken in 2020.*
+
+
 
 # Abstract
 
@@ -22,17 +24,19 @@ Land use; Public park; Vitality; Gender equality; Kabul
 
 P﻿ublished by the [Habitat International](https://www.sciencedirect.com/journal/habitat-international "Go to Habitat International on ScienceDirect")
 
+
+
 # Some visuals from the study
 
 ![Kabul City land-use zoning plan prepared by Japan International Cooperation Agency in 2012. The updated official plan is overlayed by data on the existing situation. Green-colored spots represent the study sites. (For interpretation of the references to color in this figure legend, the reader is referred to the Web version of this article.)](/assets/1-s2.0-S019739752100151X-gr1_lrg.jpg)
 
-Kabul City land-use zoning plan prepared by Japan International Cooperation Agency in 2012. The updated official plan is overlayed by data on the existing situation. Green-colored spots represent the study sites. (For interpretation of the references to color in this figure legend, the reader is referred to the Web version of this article.)
+Kabul City land-use zoning plan prepared by Japan International Cooperation Agency in 2012. The updated official plan is overlayed by data on the existing situation. Green-colored spots represent the study sites.
 
 ![](/assets/1-s2.0-S019739752100151X-gr3a_lrg.jpg "Public parks and their surrounding area land use versus gender-based user distribution.")
 
 ![Public parks and their surrounding area land use versus gender-based user distribution.](/assets/1-s2.0-S019739752100151X-gr3b_lrg.jpg)
 
-Fig. 3. Public parks and their surrounding area land use versus gender-based user distribution.
+Public parks and their surrounding area land use versus gender-based user distribution.
 
 ![A map of two public spaces in Kabul City illustrating the existence of diverse activities and amenities.](/assets/1-s2.0-S019739752100151X-gr5_lrg.jpg)
 
