@@ -405,3 +405,38 @@ body.light {
     top: 8px;
     left: 2px
 }
+
+
+.button {
+  &.-primary {
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+    color: var(--primary-text-color);
+    font-size: 16px;
+    font-weight: 400;
+    margin: 0 20px 0 0;
+    transition: color 0.3s linear;
+
+    &::before {
+      content: '';
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background-color: var(--primary-color);
+      opacity: 0.7; // Adjust the opacity as needed
+      z-index: -1;
+      transition: background-color 0.3s linear;
+    }
+
+    &:hover {
+      &::before {
+        background-color: var(--secondary-color);
+      }
+      color: var(--primary-text-color);
+      text-decoration: none;
+    }
+  }
+}
