@@ -22,7 +22,7 @@ export default () => (
           className="primary-content" 
           dangerouslySetInnerHTML={{ __html: data.site.siteMetadata.home.description}}
         />
-        <Link to='/contact' className="button -primary" style={{ backgroundColor: 'rgba(0, 123, 255, 0.5)' }}>Get in touch &rarr;</Link> {/* Adjust the rgba value as needed */}
+        <Link to='/contact' className="button -primary" style={{ backgroundColor: 'rgba(0, 0, 255, 0.5)' }}>Get in touch &rarr;</Link> 
       </div>
     )}
   />
