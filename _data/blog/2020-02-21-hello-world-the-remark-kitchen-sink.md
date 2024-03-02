@@ -16,8 +16,22 @@ This qualitative study employs observation, one-on-one semi-structured interview
 
 Land use; Public park; Vitality; Gender equality; Kabul
 
+#### **[F﻿ull Paper](https://doi.org/10.1016/j.habitatint.2021.102462): [https://doi.org/10.1016/j.habitatint.2021.102462](https://doi.org/10.1016/j.habitatint.2021.102462 "Persistent link using digital object identifier")**
 
+## Visuals from the study
 
 ![Fig. 1. Kabul City land-use zoning plan prepared by Japan International Cooperation Agency in 2012. The updated official plan is overlayed by data on the existing situation. Green-colored spots represent the study sites. (For interpretation of the references to color in this figure legend, the reader is referred to the Web version of this article.)](/assets/1-s2.0-S019739752100151X-gr1_lrg.jpg "Fig. 1. ")
 
 Fig. 1. Kabul City land-use zoning plan prepared by Japan International Cooperation Agency in 2012. The updated official plan is overlayed by data on the existing situation. Green-colored spots represent the study sites. (For interpretation of the references to color in this figure legend, the reader is referred to the Web version of this article.)
+
+
+
+![](/assets/1-s2.0-S019739752100151X-gr3a_lrg.jpg "Fig. 3. Public parks and their surrounding area land use versus gender-based user distribution.")
+
+![Fig. 3.Public parks and their surrounding area land use versus gender-based user distribution.](/assets/1-s2.0-S019739752100151X-gr3b_lrg.jpg "Fig. 3.")
+
+Fig. 3. Public parks and their surrounding area land use versus gender-based user distribution.
+
+![Fig. 5. A map of two public spaces in Kabul City illustrating the existence of diverse activities and amenities.](/assets/1-s2.0-S019739752100151X-gr5_lrg.jpg "Fig. 5. ")
+
+Fig. 5.A map of two public spaces in Kabul City illustrating the existence of diverse activities and amenities.
