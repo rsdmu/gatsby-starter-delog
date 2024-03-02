@@ -24,8 +24,6 @@ Land use; Public park; Vitality; Gender equality; Kabul
 
 P﻿ublished by the [Habitat International](https://www.sciencedirect.com/journal/habitat-international "Go to Habitat International on ScienceDirect")
 
-
-
 # Some visuals from the study
 
 ![Kabul City land-use zoning plan prepared by Japan International Cooperation Agency in 2012. The updated official plan is overlayed by data on the existing situation. Green-colored spots represent the study sites. (For interpretation of the references to color in this figure legend, the reader is referred to the Web version of this article.)](/assets/1-s2.0-S019739752100151X-gr1_lrg.jpg)
