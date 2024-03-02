@@ -2,8 +2,10 @@
 template: BlogPost
 path: /remark-kitchen-sink
 date: 2020-02-21T12:12:25.364Z
-title: 'Hello World: The remark Kitchen Sink'
-thumbnail: /assets/image-6.jpg
+title: >-
+  The role of land use and vitality in fostering gender equality in urban public
+  parks: The case of Kabul city, Afghanistan
+thumbnail: /assets/img_40siton.jpeg
 ---
 # h1 Heading 8-)
 
