@@ -10,7 +10,7 @@ thumbnail: /assets/img_40siton.jpeg
 ---
 *Photograph of a public space in Kabul, taken in 2020.*
 
-
+*.*﻿
 
 # Abstract
 
@@ -23,6 +23,8 @@ Land use; Public park; Vitality; Gender equality; Kabul
 #### **[F﻿ull Paper](https://doi.org/10.1016/j.habitatint.2021.102462): [https://doi.org/10.1016/j.habitatint.2021.102462](https://doi.org/10.1016/j.habitatint.2021.102462 "Persistent link using digital object identifier")**
 
 P﻿ublished by the [Habitat International](https://www.sciencedirect.com/journal/habitat-international "Go to Habitat International on ScienceDirect")
+
+.﻿
 
 # Some visuals from the study
 
