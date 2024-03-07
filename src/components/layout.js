@@ -1,7 +1,7 @@
 import React from "react"
 import { Link, useStaticQuery, graphql } from "gatsby"
 import Navigation from "./navigation" // Assuming Navigation is also in the same components directory
-import SEO from "./seo" // Importing SEO from the same directory
+import SEO from "./seo" // Importing SEO
 import 'prismjs/themes/prism-okaidia.css'
 
 export default ({ children }) => {
@@ -21,8 +21,8 @@ export default ({ children }) => {
     <div className="site-wrapper">
       <SEO 
         title={data.site.siteMetadata.title} 
-        description="Your site description here" // Add your site description
-        metaTag="l3J0y3XD8D3n9javX6yPcBrEYB9SXnICRguNy3C5JHA" // Your specific Google verification content
+        description="rsdmu" // Website description
+        metaTag="l3J0y3XD8D3n9javX6yPcBrEYB9SXnICRguNy3C5JHA" // Google Search Console verification code
       />
       <header className="site-header">
         <div className="site-title">
